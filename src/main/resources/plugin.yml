@@ -1,0 +1,53 @@
+name: GamemodeManager
+version: ${project.version}
+main: main.gamemodemanager.Main
+api-version: 1.16
+authors:
+  - Fly_Ultra
+description: GamemodeManager
+
+
+commands:
+  gmc:
+    description: Command for Gamemode Creative
+    aliases: [gamemodec]
+  gmsp:
+    description: Command for Gamemode Spectator
+    aliases: [gamemodesp]
+  gma:
+    description: Command for Gamemode Adventure
+    aliases: [gamemodea]
+  gms:
+    description: Command for Gamemode Survival
+    aliases: [gamemodes]
+  gmmanager:
+    description: Main Command
+    aliases: [gamemodemanager]
+
+permissions:
+  gmmanager.gma:
+    description: Gamemode Adventure
+  gmmanager.gma.other:
+    description: Gamemode Adventure To Other
+  gmmanager.gmc:
+    description: Gamemode Creative
+  gmmanager.gmc.other:
+    description: Gamemode Creative To Other
+  gmmanager.gmsp:
+    description: Gamemode Spectator
+  gmmanager.gmsp.other:
+    description: Gamemode Spectator To Other
+  gmmanager.gms:
+    description: Gamemode Survival
+  gmmanager.gms.other:
+    description: Gamemode Survival To Other
+  gamemode.creative.destroy:
+    description: If Player Has This Permission Can Destroy Blocks In Creative
+  gamemode.creative.move:
+    description: If Player Has This Permission Can Move In Creative
+  gamemode.adventure.move:
+    description: If Player Has This Permission Can Move In Adventure
+  gamemode.spectator.move:
+    description: If Player Has This Permission Can Move In Spectator
+  gamemode.creative.place:
+    description: If Player Has This Permission Can Place In Creative

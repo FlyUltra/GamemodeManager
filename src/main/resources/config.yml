@@ -1,0 +1,34 @@
+noperm: "&4Sorry, but you dont have permissions to execute this command!"
+TargetNull: "&4Sorry, but Player (%TARGET%) in your Command is Offline!"
+
+
+GamemodeSurvival: "&aYou have successfully turned on Survival"
+GamemodeCreative: "&aYou have successfully turned on Creative"
+GamemodeSpectator: "&aYou have successfully turned on Spectator"
+GamemodeAdventure: "&aYou have successfully turned on Adventure"
+
+GamemodeSurvivalToOther: "&aYou have successfully turned on Survival for %TARGET%"
+GamemodeCreativeToOther: "&aYou have successfully turned on Creative for %TARGET%"
+GamemodeAdventureToOther: "&aYou have successfully turned on Adventure for %TARGET%"
+GamemodeSpectatorToOther: "&aYou have successfully turned on Spectator for %TARGET%"
+
+
+DestroyCreativeBar: "&cSorry but you dont have acces to Destroy in Creative"
+
+PlaceCreativeBar: "&cSorry but you dont have acces to Place in Creative"
+
+
+MoveAdventureBar: "&cSorry but you dont have acces to Move in Adventure"
+MoveCreativeBar: "&cSorry but you dont have acces to Move in Creative"
+MoveSpectatorBar: "&cSorry but you dont have acces to Move in Spectator"
+
+
+GamemodeSurvivalTarget: "&aSurvival has been set up for you"
+GamemodeCreativeTarget: "&aCreative has been set up for you"
+GamemodeSpectatorTarget: "&aSpectator has been set up for you"
+GamemodeAdventureTarget: "&aAdventure has been set up for you"
+
+security: false
+
+
+
